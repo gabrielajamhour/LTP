@@ -1,2 +1,2 @@
 # LTP
-Languages, technologies and programming paradigms
+UPV Classes - Languages, technologies and programming paradigms
